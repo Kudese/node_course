@@ -1,6 +1,8 @@
 # Linter already worked.
 
-##### Just make sure you have the next lines in your package.json file and run 'npm install':
+##### Just copy .eslintrc.js file to root of the project directory.
+
+##### Make sure you have the next lines in your package.json file and run 'npm install':
 ``` 
   "devDependencies": {
     "eslint": "^8.34.0",
@@ -24,5 +26,5 @@
   }
 ```
 
-##### Also make shure to install ESLint extension for your code editor
+##### Pleas, install ESLint extension for your code editor
 ##### In case modules import showing error reopen your editor
